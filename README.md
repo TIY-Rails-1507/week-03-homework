@@ -1,9 +1,5 @@
 # Week 3 Homework
 
-Please read the following:
-
-Ruby concepts:
-
 ## Symbols
 We did cover this in the class, if you wish to see another persons perspective then please read:
 * http://programmers.stackexchange.com/questions/24460/what-is-a-symbol-in-ruby
