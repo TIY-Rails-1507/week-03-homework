@@ -18,3 +18,4 @@ Please go through the following:
 ## Your Website?
 Think of a website that you would like to build. This will be an ongoing project that you can work on and improve as we cover more and more of Rails. You don't need to start it, just think of an idea that interests you...
 
+![Image of WIP](http://ddsdata.in/website-under-construction.gif)
